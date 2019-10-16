@@ -1,0 +1,9 @@
+{
+    "verbose": false,
+    "ignore": [
+      "*.test.go"
+    ],
+    "execMap": {
+      "go": "go run"
+    }
+  }
